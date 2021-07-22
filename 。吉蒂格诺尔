@@ -1,0 +1,7 @@
+package lsj;
+
+public class helloidea {
+    public static void main(String[] args){
+        System.out.println("Hello 你好!");
+    }
+}
